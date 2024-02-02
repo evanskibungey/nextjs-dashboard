@@ -48,3 +48,5 @@ export default function NavLinks() {
     </>
   );
 }
+//psql "postgres://default:BI3deNO2KiWY@ep-lingering-dawn-a4jo31bq.us-east-1.postgres.vercel-storage.com:5432/verceldb"
+//psql "postgres://default:BI3deNO2KiWY@ep-lingering-dawn-a4jo31bq.us-east-1.postgres.vercel-storage.com:5432/verceldb"
